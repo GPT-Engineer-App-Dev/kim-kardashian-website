@@ -10,7 +10,7 @@ const Navbar = () => {
             <Link href="/">Home</Link>
             <Link href="/about">About</Link>
             <Link href="/projects">Projects</Link>
-            <Link href="/gallery">Gallery</Link>
+            <Link href="/events">Events</Link>
             <Link href="/gallery">Gallery</Link>
             <Link href="/contact">Contact</Link>
           </HStack>
